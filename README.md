@@ -4,8 +4,8 @@ Reinforcement Learning Models for Stock Prediction
 
 ## Models
 
-* ARIMA
-* Stacked LSTM
+* [ARIMA](src/ARIMA.ipynb)
+* [Stacked LSTM](src/Stacked%20LSTM.ipynb)
 
 ## Dependencies
 
