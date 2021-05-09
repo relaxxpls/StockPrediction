@@ -2,17 +2,6 @@
 
 Reinforcement Learning Models for Stock Prediction
 
-## Models
+## [Code](src\)
 
-* [ARIMA](src/ARIMA.ipynb)
-* [Stacked LSTM](src/Stacked%20LSTM.ipynb)
-
-## Dependencies
-
-* sklearn
-* keras
-* matplotlib
-* pandas
-* seaborn
-* tensorflow
-* statsmodels
+## [Documentation](docs\)
