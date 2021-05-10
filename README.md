@@ -2,6 +2,6 @@
 
 Reinforcement Learning Models for Stock Prediction
 
-## [Code](src\)
+## [Code](src/)
 
-## [Documentation](docs\)
+## [Documentation](docs/)
